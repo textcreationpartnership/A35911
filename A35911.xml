@@ -1,0 +1,903 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Dialogue between two young ladies, lately married, concerning management of husbands</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 45 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35911</idno>
+            <idno type="STC">Wing D1345</idno>
+            <idno type="STC">ESTC R32401</idno>
+            <idno type="EEBO-CITATION">12670156</idno>
+            <idno type="OCLC">ocm 12670156</idno>
+            <idno type="VID">65479</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35911)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 65479)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1525:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Dialogue between two young ladies, lately married, concerning management of husbands</title>
+               </titleStmt>
+               <extent>37 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London printed :</pubPlace>
+                  <date>1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Marriage.</term>
+               <term>Husbands.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:65479:1" rendition="simple:additions"/>
+            <p>A DIALOGUE BETWEEN TWO Young Ladies LATELY MARRIED, Concerning MANAGEMENT OF <hi>Husbands.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed in the Year 1696.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:65479:2"/>
+            <pb n="3" facs="tcp:65479:2"/>
+            <head>A DIALOGUE BETWEEN Two Young LADIES lately Married, <hi>&amp;c.</hi>
+            </head>
+            <sp>
+               <speaker>Amy.</speaker>
+               <p>WEclcome, my dear <hi>Lucy!</hi> I have long'd to ſee you.</p>
+            </sp>
+            <sp>
+               <speaker>Lucy.</speaker>
+               <p>Sweet <hi>Amy!</hi> I have had no leſs impatience for your dear Company. Lord! how you're alter'd, methinks you ſeem more beautiful than ever: A very Angel!</p>
+            </sp>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>Fie, <hi>Lucy,</hi> do you begin to abuſe me thus already?</p>
+            </sp>
+            <sp>
+               <speaker>Luc.</speaker>
+               <p>No, I vow; you appear ſuch in my eye, really.</p>
+            </sp>
+            <pb n="4" facs="tcp:65479:3"/>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>Perhaps my new Mantua adds to my little Beauty: You like the Faſhion then? 'Tis the neweſt Stuff.</p>
+            </sp>
+            <sp>
+               <speaker>Luc.</speaker>
+               <p>As I live, I never ſaw any thing more pretty; ſure 'tis all Spaniſh Wool.</p>
+            </sp>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>Yes, yes, the Wool is Spaniſh, but it was Dyed at <hi>Venice.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Luc.</speaker>
+               <p>There is no Silk can wear neater— And what a delicate Colour!— For Hea<g ref="char:EOLhyphen"/>ven's ſake, from whence had you this No<g ref="char:EOLhyphen"/>ble Preſent?</p>
+            </sp>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>From whence, <hi>Lucy?</hi> From whom ſhould a Vertuous Wife receive it but from her Husband?</p>
+            </sp>
+            <sp>
+               <speaker>Luc.</speaker>
+               <p>Oh happy you, who have ſuch a Husband! wou'd I had Married a Cobler when I met with my Bargain.</p>
+            </sp>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>How now, Friend! do you repent already?</p>
+            </sp>
+            <sp>
+               <speaker>Luc.</speaker>
+               <p>How is it poſſible I ſhou'd do other<g ref="char:EOLhyphen"/>wiſe? do you ſee theſe Rags, and how I am dizen'd? Thus it goes with my Hus<g ref="char:EOLhyphen"/>band's Wife. Let me dye, if I am not aſhamed to appear in Publick, when I per<g ref="char:EOLhyphen"/>ceive how genteel other Women go, whoſe Husbands are much inferior to mine born for Quality and Eſtate.</p>
+            </sp>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>The true Ornament of Wives does not conſiſt in Apparel, or Dreſs, as we are taught by St. <hi>Peter,</hi> (for I heard this of
+<pb n="5" facs="tcp:65479:3"/>Mr. <hi>Fleet—d</hi> lately in a Sermon) but in chaſt and modeſt Behaviour, and in the imbelliſhments of the Mind. Let the taw<g ref="char:EOLhyphen"/>dry Miſſes of the Times ſeek, by their gay Dreſs, to attract the admiration of many Eyes; we, that are Marry'd, ought to eſteem our ſelves fine enough if we pleaſe our Husbands only.</p>
+            </sp>
+            <sp>
+               <speaker>Luc.</speaker>
+               <p>But, in the mean time, my good Man, tho' he be ſo very penurious to his Wife, is other ways ſufficiently profuſe in waſting that fair Eſtate which I brought him.</p>
+            </sp>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>In what?</p>
+            </sp>
+            <sp>
+               <speaker>Luc.</speaker>
+               <p>In thoſe Debauchees which are moſt pleaſing to his wicked nature, Wine, Dice, and Whores.</p>
+            </sp>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>Oh! good words.</p>
+            </sp>
+            <sp>
+               <speaker>Luc.</speaker>
+               <p>'Tis even ſo, <hi>Amy:</hi> And when, at length, after a tedious expectation on my part, he comes home between One and Two in the Morning, Drunk as <hi>David</hi>'s Sow, he lyes by me the reſt of the Night ſnorting like a Bear. Sometimes he Vo<g ref="char:EOLhyphen"/>mits in the Bed; not to ſay more.</p>
+            </sp>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>Hold, hold, you have ſaid too much already; and I muſt tell you <hi>Lucy,</hi> you diſparage your ſelf in diſparaging your Husband.</p>
+            </sp>
+            <pb n="6" facs="tcp:65479:4"/>
+            <sp>
+               <speaker>Luc.</speaker>
+               <p>As I hope to breath, I had as good have a Broom-ſtaff to my Bedfellow as ſuch a Man.</p>
+            </sp>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>And do not you Scold when he comes home thus?</p>
+            </sp>
+            <sp>
+               <speaker>Luc.</speaker>
+               <p>Ay, and reaſon good, I think; he finds I want no Tongue.</p>
+            </sp>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>And what does he?</p>
+            </sp>
+            <sp>
+               <speaker>Luc.</speaker>
+               <p>Why, at firſt, he anſwer'd me a<g ref="char:EOLhyphen"/>gain in the ſame manner, thinking, I ſup<g ref="char:EOLhyphen"/>poſe, to Silence me with high Words and Rhodomontades.</p>
+            </sp>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>And did all this ſtir never end in blows?</p>
+            </sp>
+            <sp>
+               <speaker>Luc.</speaker>
+               <p>Once we were both ſo well heated, that we were juſt ready to fall to't.</p>
+            </sp>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>What do I hear!</p>
+            </sp>
+            <sp>
+               <speaker>Luc.</speaker>
+               <p>He flouriſh'd his Cane, and huff'd after a very tearing rate.</p>
+            </sp>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>Did not you fear?</p>
+            </sp>
+            <sp>
+               <speaker>Luc.</speaker>
+               <p>Not at all: I ſnatch'd up a Buffet-Stool for my defence, and had he touch'd me with one finger, he ſhou'd have found I wanted not hands.</p>
+            </sp>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>A pretty kind of New-faſhion Shield, had you had but your Diſtaff in<g ref="char:EOLhyphen"/>ſtead of a Launce—</p>
+            </sp>
+            <sp>
+               <speaker>Luc.</speaker>
+               <p>He ſhou'd have found me a very Amazon.</p>
+            </sp>
+            <pb n="7" facs="tcp:65479:4"/>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>Alas, alas, my <hi>Lucy,</hi> this is not the way.</p>
+            </sp>
+            <sp>
+               <speaker>Luc.</speaker>
+               <p>What way wou'd you have me take with him? If he reſpects me not as a Wife, neither will I reſpect him as a Hus<g ref="char:EOLhyphen"/>band.</p>
+            </sp>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>But St. <hi>Paul</hi> Teaches, That Wives ought to be ſubject to their Husbands with all reverence: And St. <hi>Peter</hi> propoſes to our imitation the Example of <hi>Sarah,</hi> who call'd her Husband Lord.</p>
+            </sp>
+            <sp>
+               <speaker>Luc.</speaker>
+               <p>I know all this; and beſides that, the ſame <hi>Paul</hi> commands, That Husbands love their Wives, as Chriſt loved his Church. Let him remember his Duty, and I will not forget mine.</p>
+            </sp>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>But where Affairs are in that poſture that both cannot Rule, 'tis fit that the Wife yield to the Husband.</p>
+            </sp>
+            <sp>
+               <speaker>Luc.</speaker>
+               <p>But how can he be call'd a Hus<g ref="char:EOLhyphen"/>band, who regards me only as a Ser<g ref="char:EOLhyphen"/>vant?</p>
+            </sp>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>But tell me, <hi>Lucy,</hi> did he then forbear ſtriking?</p>
+            </sp>
+            <sp>
+               <speaker>Luc.</speaker>
+               <p>Yes, he forbore; and he did wiſe<g ref="char:EOLhyphen"/>ly, otherwiſe he had been ſoundly beaten.</p>
+            </sp>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>But you, I warrant, did not for<g ref="char:EOLhyphen"/>bear Scolding.</p>
+            </sp>
+            <sp>
+               <speaker>Luc.</speaker>
+               <p>You may ſwear it.</p>
+            </sp>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>What did he in the mean time?</p>
+            </sp>
+            <pb n="8" facs="tcp:65479:5"/>
+            <sp>
+               <speaker>Luc.</speaker>
+               <p>Sometime he ſeem'd to ſleep Dogs-ſleep, ſometimes he wou'd laugh and neg<g ref="char:EOLhyphen"/>lect me; then he wou'd take up an old rotten Lute, on which there was hardly left three whole ſtrings, yet he wou'd Fum, ſum, on that damn'd Inſtrument, only to drown my noiſe.</p>
+            </sp>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>This enraged you.</p>
+            </sp>
+            <sp>
+               <speaker>Luc.</speaker>
+               <p>So far <hi>Amy,</hi> that I can hardly ex<g ref="char:EOLhyphen"/>preſs my Paſſion; much ado had I to hold my hands.</p>
+            </sp>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>My dear <hi>Lucy,</hi> will you permit me to ſpeak freely to you?</p>
+            </sp>
+            <sp>
+               <speaker>Luc.</speaker>
+               <p>Moſt willingly.</p>
+            </sp>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>You ſhall have the ſame liberty with me. And thus much ſeems due to our old friendſhip, which was firſt contracted, as I may ſay, in our very Cradle.</p>
+            </sp>
+            <sp>
+               <speaker>Luc.</speaker>
+               <p>True, <hi>Amy;</hi> nor is there any of my Acquaintance more dear to me than your ſelf.</p>
+            </sp>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>You muſt know then, that what<g ref="char:EOLhyphen"/>ſoever your Husband proves, there is no means of changing. Of Old, indeed, there was a thing in uſe, for a Remedy in this caſe, call'd a Divorce; but Autho<g ref="char:EOLhyphen"/>rity hath Abrogated that Cuſtom. There is now no Remedy, but that you muſt be his, and he yours, during Life.</p>
+            </sp>
+            <pb n="9" facs="tcp:65479:5"/>
+            <sp>
+               <speaker>Luc.</speaker>
+               <p>Our Superiors did ill to remove that good Law of Separation.</p>
+            </sp>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>Oh, forbear ſuch expreſſions, it was Chriſt's Will and Pleaſure.</p>
+            </sp>
+            <sp>
+               <speaker>Luc.</speaker>
+               <p>I cannot think it.</p>
+            </sp>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>'Tis ſo; there remains therefore nothing now, but that both Parties endea<g ref="char:EOLhyphen"/>vour a mutual Peace and Concord, and that they ſtrive which ſhall conform moſt to each others Humour and Inclination.</p>
+            </sp>
+            <sp>
+               <speaker>Luc.</speaker>
+               <p>But may not I endeavour to make and mold him as I ſee fitting?</p>
+            </sp>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>I know not what you call making and molding; but of this I am confident, that moſt Husbands, how bad ſo ever they are, owe much of the occaſion to their Wives.</p>
+            </sp>
+            <sp>
+               <speaker>Luc.</speaker>
+               <p>It ſeems all goes well between you and yours.</p>
+            </sp>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>The very heighth of Peace and Quiet.</p>
+            </sp>
+            <sp>
+               <speaker>Luc.</speaker>
+               <p>But was it always in the ſame calm from the beginning?</p>
+            </sp>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>We never had what I may call a Storm! 'Tis true, ſome little Clouds (ſuch as are natural to all Mankind) might, per<g ref="char:EOLhyphen"/>haps, ſometimes gather, and ſeem to threaten foul Weather, unleſs prevented by diſcretion. Every Man hath his pecu<g ref="char:EOLhyphen"/>liar humour and fancy: And in truth, <hi>Lu<g ref="char:EOLhyphen"/>cy,</hi>
+                  <pb n="10" facs="tcp:65479:6"/>every Woman hath her peculiar De<g ref="char:EOLhyphen"/>ſerts; which things ought always, eſpe<g ref="char:EOLhyphen"/>cially in Matrimony, to be known and ob<g ref="char:EOLhyphen"/>ſerved, but not hated.</p>
+            </sp>
+            <sp>
+               <speaker>Luc.</speaker>
+               <p>You are in the right.</p>
+            </sp>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>It happens frequently, that Affe<g ref="char:EOLhyphen"/>ction decays between Husband and Wiſe before they ſufficiently know one another: Have a care therefore in the beginning, for Conjugal Love being once ſhatter'd, is hardly ever well united again, eſpecially where there have been bitter Reproaches between them; where things are but new glued together they are eaſily disjointed, but if you let them fix till the Glue be well dried, they become as ſtrong as if all of a piece. Nothing therefore ought to be omitted between the new Marry'd in the beginning, that ſo their actual kindneſs may the better fix and ſettle; and this ought chiefly to be ſought by obſequious and complacent Endearments, for that Affection which depends only on Beauty is ſeldom laſting.</p>
+            </sp>
+            <sp>
+               <speaker>Luc.</speaker>
+               <p>But tell me, I beſeech you, by what unknown Arts have you wrought over your Husband to ſo much Compla<g ref="char:EOLhyphen"/>cency.</p>
+            </sp>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>I will tell you, that you may uſe the ſame method.</p>
+            </sp>
+            <pb n="11" facs="tcp:65479:6"/>
+            <sp>
+               <speaker>Luc.</speaker>
+               <p>If I am able.</p>
+            </sp>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>There is no difficulty, if you are but willing, neither is it too late, you are both young enough; and if I am rightly in<g ref="char:EOLhyphen"/>form'd, it is leſs than a Year ſince ye were Marry'd.</p>
+            </sp>
+            <sp>
+               <speaker>Luc.</speaker>
+               <p>'Tis very true.</p>
+            </sp>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>I will tell you therefore, but you muſt mind me.</p>
+            </sp>
+            <sp>
+               <speaker>Luc.</speaker>
+               <p>Moſt attentively.</p>
+            </sp>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>My principal Care was to appear to my Husband always in a good humour, that ſo I might give him no occaſion of diſ<g ref="char:EOLhyphen"/>quiet; I obſerv'd his Affections and Incli<g ref="char:EOLhyphen"/>nations; I obſerv'd proper times, and me<g ref="char:EOLhyphen"/>thods, by which he was moſt apt to be appeas'd, or offended; juſt as thoſe do who reclaim your Elephants, and Lions, and ſuch like Creatures, which are not to be overcome with force.</p>
+            </sp>
+            <sp>
+               <speaker>Luc.</speaker>
+               <p>Even ſuch a Beaſt have I at home to deal with.</p>
+            </sp>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>Men appear not before Elephants in White, nor before Bulls in Red, in re<g ref="char:EOLhyphen"/>gard theſe Colours have been obſerved to exaſperate thoſe Creatures, juſt as the ſound of a Timbrel or Drum is ſaid to en<g ref="char:EOLhyphen"/>rage the Tiger, ſo far as that he will tear his own Fleſh for madneſs. So thoſe that manage Horſes, they ſpeak them fair, they
+<pb n="12" facs="tcp:65479:7"/>ſmack their Mouths, they ſtroke them, and clap their Necks; and by ſuch means, they become as gentle as a Lamb. How much rather ought we to obſerve theſe Arts to<g ref="char:EOLhyphen"/>wards our Husbands, to whoſe conſtant Society, both at Bed and Board, we are fatally obliged for our whole Life?</p>
+            </sp>
+            <sp>
+               <speaker>Luc.</speaker>
+               <p>Go on.</p>
+            </sp>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>Theſe things premiſed; I con<g ref="char:EOLhyphen"/>form'd my ſelf to him, ſhunning all occa<g ref="char:EOLhyphen"/>ſions of offence.</p>
+            </sp>
+            <sp>
+               <speaker>Luc.</speaker>
+               <p>As how?</p>
+            </sp>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>Firſt, in the Affairs of the Family, (which is indeed the pecular Province of a Wife) I not only took care that nothing ſhould be wanting, but that all things might be to his humour, even in the moſt criminal Matters.</p>
+            </sp>
+            <sp>
+               <speaker>Luc.</speaker>
+               <p>Name ſome.</p>
+            </sp>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>For Example: Suppoſe he loves this or that Diſh more than other, or his Diet thus or thus order'd, or his Bed made or furniſh'd after this or that man<g ref="char:EOLhyphen"/>ner.</p>
+            </sp>
+            <sp>
+               <speaker>Luc.</speaker>
+               <p>But how could you behave your ſelf to ſuch a Husband who is never at home, unleſs Drunk?</p>
+            </sp>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>Permit me and I'll tell you. If my Husband appear out of humour, I obſerve the time; I neither laugh nor jeſt, as is
+<pb n="13" facs="tcp:65479:7"/>the indiſcreet Cuſtom of ſome Wives, but put on a Countenance ſuitable to his, very ſerious and grave. A good Glaſs repre<g ref="char:EOLhyphen"/>ſents her Face exactly who looks in it, ſo ſhou'd a good Wife that of her Husband, when affected either with Joy or Sorrow; when he is ſad, ſhe ought not to appear pleaſed, or laugh when he laments. When he is angry, ſhe ought either to ſweeten him with ſoft Language, or in Silence ſub<g ref="char:EOLhyphen"/>mit to his Paſſion, till ſhe find a more pro<g ref="char:EOLhyphen"/>per opportunity either to vindicate her ſelf, or to admoniſh him. Thus did I, if at any time my Husband came home in Drink; I uſed no Language but what was pleaſant, and forced him to Bed with all the little Tricks of Love and Fondneſs.</p>
+            </sp>
+            <sp>
+               <speaker>Luc.</speaker>
+               <p>Unhappy is the condition of us Wives, if we muſt thus ſubmit to all the Extravagancies of Cholerick and Drunken Husbands.</p>
+            </sp>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>As if the Sufferance were not Mu<g ref="char:EOLhyphen"/>tual: Come, come, <hi>Lucy,</hi> Wives have ma<g ref="char:EOLhyphen"/>ny faults which Husbands are compell'd to bear with; yet there's a time, when, in a ſerious manner, a Wife may Lawfully ad<g ref="char:EOLhyphen"/>viſe her Husband, if the occaſion be of weight, but if it be about a Trifle, ſhe ought not to conteſt it.</p>
+            </sp>
+            <pb n="14" facs="tcp:65479:8"/>
+            <sp>
+               <speaker>Luc.</speaker>
+               <p>Well, proceed.</p>
+            </sp>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>Thus, when ſhe finds his Mind at liberty, neither Troubled, nor Penſive, nor Drunk, then is the time, in private, and with obliging Language, to adviſe, or ra<g ref="char:EOLhyphen"/>ther intreat him, that in this or that parti<g ref="char:EOLhyphen"/>cular he wou'd more conſider his Eſtate, Health, or Reputation. Yet, as I ſaid, this Admonition muſt be deliver'd in a pleaſant and obliging manner, or elſe it will do more harm than ſilence. I have uſed ſometimes to make a long Apology by way of Preface, that he wou'd not be offended, if I, Silly Woman as I am, think my ſelf concern'd for his Honour, Health, or good Condition. At other times, when in few words I had advis'd him of ſuch things as I thought convenient, I have immediately, of my own accord, broke off the Diſcourſe, and found out a more pleaſing Subject. It is almoſt a general fault in our Sex, my <hi>Lucy,</hi> that when we have once begun to ſpeak of any thing, we can never tell when to give over.</p>
+            </sp>
+            <sp>
+               <speaker>Luc.</speaker>
+               <p>Men ſay ſo.</p>
+            </sp>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>But, above all things, I give you this Caution, That you never conteſt with your Husband before Company, and that you never complain abroad of what's done at home; the Breach that happens between
+<pb n="15" facs="tcp:65479:8"/>two without Witneſs, is not hard to be compoſed, but in caſe any thing ſhou'd happen of ſuch nature, that the Wife can neither endure with patience, nor prevent by all her intreaties, Civility requires that ſhe complains to the Parents or Relations of her Husband, rather than to her own, and that in ſuch a modeſt temper of Lan<g ref="char:EOLhyphen"/>guage, that it may appear ſhe is only diſ<g ref="char:EOLhyphen"/>pleas'd at her Husbands Vice, and not his Perſon. Nor wou'd I have her diſcover all, for by this means her very Husband will candidly acknowledge, and love her Civi<g ref="char:EOLhyphen"/>lity.</p>
+            </sp>
+            <sp>
+               <speaker>Luc.</speaker>
+               <p>The Wife that can do this, <hi>Amy,</hi> muſt be a perfect Philoſopher, a very Sto<g ref="char:EOLhyphen"/>ick in her Paſſions.</p>
+            </sp>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>By ſuch Behaviour, we win our Husbands to the like Civility and Com<g ref="char:EOLhyphen"/>plaiſance for us.</p>
+            </sp>
+            <sp>
+               <speaker>Luc.</speaker>
+               <p>But there are ſome Men whom no good Offices can oblige.</p>
+            </sp>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>I am not of your Opinion. But ſuppoſe there be, conſider thus: Your Husband, be he what he will, yet he is your Husband, and you are tyed to him for Life; it is therefore much more tolera<g ref="char:EOLhyphen"/>ble to endure his humour, ſuch as it is, or by fair means to render it ſomething more eaſie, than by ill Language to make
+<pb n="16" facs="tcp:65479:9"/>him worſe. What ſay you, if I produce Examples of ſome Husbands who have uſed this method in reclaiming their Wives? How much more convenient is it then, for us to obſerve towards our Husbands?</p>
+            </sp>
+            <sp>
+               <speaker>Luc.</speaker>
+               <p>You will produce an Inſtance of a quite different Nature from my Husband.</p>
+            </sp>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>There is a Gentleman of my Ac<g ref="char:EOLhyphen"/>quaintance, one of ſingular Learning, and very accompliſh'd Parts, who not many years ſince marry'd a handſom young Girl of about Sixteen years of Age: She had been conſtantly Educated at home in the Country, where you know the Gentry de<g ref="char:EOLhyphen"/>light moſt to abide for the conveniency of Hunting and Hawking. He had always deſired a Wife of that condition, Un<g ref="char:EOLhyphen"/>taught and Innocent, that ſo he might with leſs difficulty form her to his own humour. They were no ſooner Marry'd, but he be<g ref="char:EOLhyphen"/>gan to Inſtruct her in Grammar, Muſick, and ſuch like Arts, that might be of future advantage. Theſe things were new to her, who having been bred at Eaſe, and unac<g ref="char:EOLhyphen"/>quainted with all Converſation or Diver<g ref="char:EOLhyphen"/>tiſements, but what ſhe had been uſed to among her Fathers Servants, found her ſelf quickly tired with her Husband's Docu<g ref="char:EOLhyphen"/>ments. She began to be ſtubborn, and when he urged her to her Duty, ſhe wou'd
+<pb n="17" facs="tcp:65479:9"/>weep bitterly, and take on in ſuch an ex<g ref="char:EOLhyphen"/>travagant manner, that ſometimes ſhe wou'd caſt her ſelf on the ground, as im<g ref="char:EOLhyphen"/>patient of Life. When her Husband ſaw there was no end of this unreaſonable Beha<g ref="char:EOLhyphen"/>viour, diſſembling however his diſguſt, he invites her to accompany him to her Fa<g ref="char:EOLhyphen"/>thers in the Country, for the Divertiſe<g ref="char:EOLhyphen"/>ment of a Summers Journey. This mo<g ref="char:EOLhyphen"/>tion was very grateful to her; being ar<g ref="char:EOLhyphen"/>riv'd there, he Rides out one Morning to Hunt with the Father, leaving his Wife at Home with her Mother and Siſters. Be<g ref="char:EOLhyphen"/>ing in the Field, he draws the Father from the other Company, and complaining, tells him, That he hoped to have found in his Daughter no ſmall Comfort and Eaſe to the remaining part of his Life, but that he had found her, much againſt his expecta<g ref="char:EOLhyphen"/>tion, continually in Tears, always Diſcon<g ref="char:EOLhyphen"/>tented and diſcontenting him, and Deaf to his Advice; he deſires him therefore, to uſe his Authority toward the Reformation of her untractable Humour. The Father replies, That he had given up his Daughter wholly to his Government, and that if he found his Words ineffectual, he ſhou'd uſe what other means he pleaſed, and reduce her by force. I know my Power, and what I may do, ſays the Son-in-Law, but
+<pb n="18" facs="tcp:65479:10"/>I am unwilling to uſe ſuch extremity to one that I love ſo tenderly as I do your Daugh<g ref="char:EOLhyphen"/>ter; I deſire rather that ſhe ſhould under<g ref="char:EOLhyphen"/>ſtand her Duty from your Perſwaſions, and the Authority of a Parent. Within two or three days after this, the Father finds his Daughter alone, and, with many frowns, begins with reminding her how, that ſhe having ſo little Beauty of either Mind or Body to recommend her, that he often had diſpair'd of ever getting her a Hus<g ref="char:EOLhyphen"/>band; that having now procured her ſuch an Invidious Match, and made her happy with much Induſtry, yet ſhe, not conſider<g ref="char:EOLhyphen"/>ing what he had done for her, nor the va<g ref="char:EOLhyphen"/>lue of ſuch a Husband, who, had he not been of a wonderful good Nature, would hardly have received her into the number of his Servants; and ſhe to Rebel thus! In ſhort, he ſeem'd ſo moved, that he hardly forbore ſtriking: For you muſt know, this Father was a Man of ſuch a ready Wit, and ſuch quick Parts, that he would Perſonate any Character or Paſſion as he pleas'd. The Daughter hereupon, partly overcome with Fear, and partly with a true ſence of her own Guilt, caſts her ſelf at her Fathers Knees, begs his Par<g ref="char:EOLhyphen"/>don for the paſt, and aſſures him of her future Duty; on thoſe Conditions he Par<g ref="char:EOLhyphen"/>dons, and Promiſes his Affection.</p>
+            </sp>
+            <pb n="19" facs="tcp:65479:10"/>
+            <sp>
+               <speaker>Luc.</speaker>
+               <p>Well, but how was this perform'd?</p>
+            </sp>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>The Girl being parted from her Father, returns to her Husbands Cham<g ref="char:EOLhyphen"/>ber, where finding him alone, ſhe falls at his feet, with theſe expreſſions: <hi>Sir, I have not hitherto known either you or my ſelf as I ought, but for the future you ſhall ſee me nothing leſs than what I have been; I beg you would forget my paſt Behaviour.</hi> At theſe words the Husband rais'd her with a Kiſs, and promis'd mighty Matters on her amend<g ref="char:EOLhyphen"/>ment.</p>
+            </sp>
+            <sp>
+               <speaker>Luc.</speaker>
+               <p>And did ſhe alter her Behaviour?</p>
+            </sp>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>Never was any Woman more hum<g ref="char:EOLhyphen"/>ble all the following part of her Life; there was nothing her Husband could de<g ref="char:EOLhyphen"/>ſire, but ſhe flew to obey him with the greateſt alacrity imaginable: So great, and ſo intire, was their Affection from that time. Within a few years after this, ſhe freely acknowledged her ſelf infinitely Happy in ſuch a Husband; and that with<g ref="char:EOLhyphen"/>out him, ſhe had been the moſt wretched of Women.</p>
+            </sp>
+            <sp>
+               <speaker>Luc.</speaker>
+               <p>Such Husbands as this, are as rare as Black Swans or White Crows.</p>
+            </sp>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>I'll tell you now another paſſage, which happen'd but lately in this City— But I fear you are tir'd with this Subject.</p>
+            </sp>
+            <pb n="20" facs="tcp:65479:11"/>
+            <sp>
+               <speaker>Luc.</speaker>
+               <p>Oh, not at all: Your Diſcourſe, my dear <hi>Amy,</hi> can never tire the Hearer.</p>
+            </sp>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>Away, away, you Railly—There is a Perſon of no mean Quality, but he ſhall be Nameleſs, who being much addicted to Hunting, as moſt are of his condition, met accidentally, one day, with a Country Girl of Exquiſite Beauty, which, by the Poverty of her Mother, was not at all diminiſh'd. The Jolly Hunter ſell deſ<g ref="char:EOLhyphen"/>perately in love at the firſt ſight, he fre<g ref="char:EOLhyphen"/>quented thoſe Parts continually on the account of this Paſſion, tho' his pretence was Hunting. His Wife, a Lady of ſin<g ref="char:EOLhyphen"/>gular Virtue and Diſcretion, ſuſpecting ſomething, without much difficulty found out the Intrigue. She takes occaſion to ſee the Houſe, ſhe views their Beds, taſts their Drink, enquires into their Diet, and finds nothing of Furniture, nothing of Con<g ref="char:EOLhyphen"/>veniency, but all ſigns of a miſerable Penu<g ref="char:EOLhyphen"/>ry and Want. She returns home, and the next day brings with her an excellent Silk Quilt, a Treat of Sweet-Meats, Drinking-Plate, and Silver Diſhes; theſe ſhe left at the Country Cottage, with ſome Money, requeſting the Old Woman, that whenever the Gentleman came, ſhe ſhould Treat him with more Ceremony, diſſembling her ſelf, in the mean time, to be his Siſter, and
+<pb n="21" facs="tcp:65479:11"/>not his Wife. Some few days after this, the Husband gives his Country Miſtreſs a Stoln Viſit; he is amazed to ſee the Poor Hovel furniſh'd after ſo unuſual a manner, and ſo many rich Moveables in every Corner. He inquires the ſurprizing Cauſe, and is told, That a certain Lady of Quality, a Relation of his, but whoſe Name they knew not, had ſent them all in, with Or<g ref="char:EOLhyphen"/>ders to Treat him after a more Honourable faſhion than formerly. He begins to ſuſ<g ref="char:EOLhyphen"/>pect his Wife had a hand in this, and at his return queſtions her upon the Point; ſhe confeſſes all. He demands further, How ſhe came to be ſo wondrous kind to Ac<g ref="char:EOLhyphen"/>commodate that Houſe with ſuch Furni<g ref="char:EOLhyphen"/>ture? My Dear, ſays ſhe, you having been always uſed to Splendid and Noble Entertainments, and I finding how poorly you were received there, I thought it my Duty to take Care, that when you are minded to make thoſe Viſits, they might be able to give you a Reception more ſuitable to your Quality.</p>
+            </sp>
+            <sp>
+               <speaker>Luc.</speaker>
+               <p>Oh! Miracle of a good Wife! Had I been concern'd, inſtead of a Quilt I would have brought him a Truſs of Thorns and Briers to lye on.</p>
+            </sp>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>Hear the concluſion: The Hus<g ref="char:EOLhyphen"/>band diſcovering, by this Action, ſuch a
+<pb n="22" facs="tcp:65479:12"/>ſweet and obliging Nature in his Wife, did, of himſelf, forbear all his old Debauchery, and became the moſt faithful Husband ima<g ref="char:EOLhyphen"/>ginable.— I preſume you know Sir <hi>Bazill.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Luc.</speaker>
+               <p>Very well.</p>
+            </sp>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>He, as you know, being in the prime flouriſh of his Youth, Marry'd a Wife of declining Years.</p>
+            </sp>
+            <sp>
+               <speaker>Luc.</speaker>
+               <p>You mean he Marry'd a good Eſtate, not a Wife.</p>
+            </sp>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>Let it be ſo then. Soon after the Marriage, he began to be weary of his Wife, and fell deſperately in love with a young Beauty of the Town, at whoſe Lodgings he frequented continually, rare<g ref="char:EOLhyphen"/>ly either Eating or Sleeping at Home. What wou'd you have done in this caſe?</p>
+            </sp>
+            <sp>
+               <speaker>Luc.</speaker>
+               <p>I wou'd have drag'd her by the Hair about the Streets. And for him, had I ſeen him going on ſuch a Viſit, I wou'd have Crown'd his Head with a full Cham<g ref="char:EOLhyphen"/>ber-Pot; and in that Ornamental Pickle he ſhou'd have ſought a Miſtreſs.</p>
+            </sp>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>But his Wife acted more diſcreetly. She invites her Rival to her own Houſe; ſhe receives her in the moſt obliging man<g ref="char:EOLhyphen"/>ner imaginable. Thus ſhe procured her Husbands Company, without any other Charm than that of ſeeing his Miſtreſs at
+<pb n="23" facs="tcp:65479:12"/>his own Houſe; and in caſe he ſhou'd ſome<g ref="char:EOLhyphen"/>times Sup with her abroad, his Wife wou'd not fail to ſend them ſome good Treat, and bid them be Merry.</p>
+            </sp>
+            <sp>
+               <speaker>Luc.</speaker>
+               <p>I wou'd ſooner dye than be my Husbands Bawd.</p>
+            </sp>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>You do not conſider, <hi>Lucy,</hi> that this way is much more ſecure and eaſie, than by injurious Language to exaſperate him ſtill more, and give occaſion of a laſting Quarrel for Life.</p>
+            </sp>
+            <sp>
+               <speaker>Luc.</speaker>
+               <p>I confeſs it the leſs Evil, but I cou'd never be able to act with ſo much Pa<g ref="char:EOLhyphen"/>tience.</p>
+            </sp>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>I will give you one Example more, and I have done with particulars. Our Neighbour here at the next Door, an ho<g ref="char:EOLhyphen"/>neſt good Man as breaths, but a little too ſubject to Paſſion, happen'd t'other day, in a ſudden heat, to ſtrike his Wife, a Wo<g ref="char:EOLhyphen"/>man of a ſweet temper, who, without de<g ref="char:EOLhyphen"/>lay, retires to her Cloſet, and there weeps moſt bitterly; the only way ſhe uſed to vent her Sorrow. It was not long after, that ſome occaſion or other brought her Husband thither, who finding her in that poſture, <hi>What means</hi> (ſays he) <hi>theſe Baby tears? leave for ſhame.</hi> Her anſwer was prudent and obliging; <hi>Your unkindneſs is of that nature, that I am forced either to regret it
+<pb n="24" facs="tcp:65479:13"/>thus, or (like other Women) in Clamour and Reproaches: I chooſe this way, Sir, as moſt conſiſtent with your Honour and my own Love.</hi> With theſe Words ſhe touch'd her Husbands very Soul, who, in a thouſand kind ex<g ref="char:EOLhyphen"/>preſſions, made a ſolemn Promiſe never to be guilty in that nature again; nor was he.</p>
+            </sp>
+            <sp>
+               <speaker>Luc.</speaker>
+               <p>I have often deſired thus much of my Husband for many reaſons.</p>
+            </sp>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>Yet you are ſtill at variance with him.</p>
+            </sp>
+            <sp>
+               <speaker>Luc.</speaker>
+               <p>What wou'd you have me do?</p>
+            </sp>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>In the firſt place, conſider calmly with your ſelf the nature of thoſe things which you complain of, and you will find you ought not to reſent them ſo heinouſly, but rather paſs them over in ſilence; and be aſſured, his Mind will, of neceſſity, be reform'd by obliging Behaviour; you will certainly wholly ſubdue his temper to your deſires, or, at leaſt, you will live much more comfortably than at preſent.</p>
+            </sp>
+            <sp>
+               <speaker>Luc.</speaker>
+               <p>He is ſo Salvage, that no good Offices can ever oblige him.</p>
+            </sp>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>Oh, ſay not ſo: The wildeſt Crea<g ref="char:EOLhyphen"/>tures that are may be reclaim'd by Endea<g ref="char:EOLhyphen"/>vours; Diſpair not then of any Man. Try the Experiment but ſome Months, and then blame me if you find my Counſel
+<pb n="25" facs="tcp:65479:13"/>unfueceſsful. There are ſome faults which you ought to avoid with more particular Care: Above all, take eſpecial heed that you never quarrel in Bed, let all there be kind and obliging; for if that place, which is in all Nations eſteem'd Sacred to Love and Pleaſure, become profaned with Hate and Diſcord, you lofe the beſt means of renewing loſt Affection. There are ſome Wives of ſuch unquiet temper, that in the moſt raviſhing Enjoyment they cannot for<g ref="char:EOLhyphen"/>bear to Scold and Wrangle, changing very Pleaſure it ſelf into Wormwood, and by their implacable Behaviour, corrupting that good Medicine which is uſually the beſt Cure for Diſcontent.</p>
+            </sp>
+            <sp>
+               <speaker>Luc.</speaker>
+               <p>I muſt confeſs I have done thus of<g ref="char:EOLhyphen"/>ten.</p>
+            </sp>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>A Wife ought, at all times, to avoid any action that may be unpleaſant to her Husband; but chiefly in Love's ſofteſt Minutes.</p>
+            </sp>
+            <sp>
+               <speaker>Luc.</speaker>
+               <p>True, to a Husband: But <hi>Amy,</hi> I have to do with a very Brute.</p>
+            </sp>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>Fie, fie, forbear ill Language; moſt bad Husbands, as I ſaid before, owe much of the occaſion to their Wives. But to proceed: Thoſe who are Vers'd in the old Poetick Fables, tells us of <hi>Venus Ceſtus,</hi> which was a Girdle, in which was Quilted,
+<pb n="26" facs="tcp:65479:14"/>with abundance of exquiſite Art, all that was powerful in procuring or reſtoring Love; and this Girdle ſhe wore continu<g ref="char:EOLhyphen"/>ally when ſhe enjoy'd her Husband.</p>
+            </sp>
+            <sp>
+               <speaker>Luc.</speaker>
+               <p>I know the Fable.</p>
+            </sp>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>But know the Moral too.</p>
+            </sp>
+            <sp>
+               <speaker>Luc.</speaker>
+               <p>Speak it.</p>
+            </sp>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>We are Taught by this old Tale, <hi>Lucy,</hi> that a Wife ought to employ all her Faculties moſt aſſiduouſly to oblige her Husband in Bed, by which means ſhe will infallibly heal all breaches, or decays of Conjugal Affection, and expel all Clouds of Neglect or Diſpleaſure that may be ga<g ref="char:EOLhyphen"/>thering in his thoughts.</p>
+            </sp>
+            <sp>
+               <speaker>Luc.</speaker>
+               <p>But where can we poor Women procure this Divine <hi>Caſtus?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>You need not Conjure for it. There are no Charms requiſite to obtain it, but only thoſe of Behaviour, and a ſweet obli<g ref="char:EOLhyphen"/>ging Temper.</p>
+            </sp>
+            <sp>
+               <speaker>Luc.</speaker>
+               <p>'Tis impoſſible for me to comply with ſuch a Husband as I am Curs'd with.</p>
+            </sp>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>'Tis your own fault that he is ſuch. Suppoſe it were in your power (as they ſay of <hi>Circe</hi>) to transform your Husband to a Brawn or Bear, wou'd you do it?</p>
+            </sp>
+            <sp>
+               <speaker>Luc.</speaker>
+               <p>'Tis a hard Queſtion: I know not what to anſwer.</p>
+            </sp>
+            <pb n="27" facs="tcp:65479:14"/>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>How! Not know? What, had you rather have a Brawn for your Bedfel<g ref="char:EOLhyphen"/>low than a Man?</p>
+            </sp>
+            <sp>
+               <speaker>Luc.</speaker>
+               <p>No ſure; I'd rather have a Man.</p>
+            </sp>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>But ſuppoſe further, that you were able, by ſome <hi>Circaean</hi> Art, or otherwiſe, to reform your Husband from a Drunkard to a Man of Morals, from a profuſe Pro<g ref="char:EOLhyphen"/>digal to a Purchaſer, and from an idle Drone to an induſtrious Bee, wou'd you not do it?</p>
+            </sp>
+            <sp>
+               <speaker>Luc.</speaker>
+               <p>Undoubtedly I wou'd: But who will teach me theſe Arts?</p>
+            </sp>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>You need no Teacher, the Art is yours already, you only want a Will to uſe it. Never think whether you ſhou'd reſpect your Husband as ſuch, he is ſuch whether you will or not; but how to make him better, that ſhou'd employ your thoughts. They ſay all things have two Handles: You regard only your Husbands faults and imperfections, which your own averſion does continually aggravate; by this Handle you always take him up, but thus you can never hold him. View ra<g ref="char:EOLhyphen"/>ther, and conſider his Accompliſhments and Virtues, by this Handle you may hold him faſt; thus, if you take him, he's your own for ever, the proper time to ſearch into his faults, had been before you Married.</p>
+               <pb n="28" facs="tcp:65479:15"/>
+               <l>— Had you been wiſe,</l>
+               <l>You had choſe your Husband from your Ears, not Eyes.</l>
+               <p>'Tis now too late to accuſe his faults, but not too late to cure them.</p>
+            </sp>
+            <sp>
+               <speaker>Luc.</speaker>
+               <p>What Woman ever Married, or choſe a Husband by her Ears, I wonder?</p>
+            </sp>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>She Marries by her Eyes, who takes a Man only for Shape and Beauty; but ſhe who guides her love by what ſhe hears of his good Name and Reputation, chooſes a Husband by her Ears, and acts much more diſcreetly.</p>
+            </sp>
+            <sp>
+               <speaker>Luc.</speaker>
+               <p>You adviſe well; but 'tis too late, <hi>Amy.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>Not at all too late to endeavour to mend a bad Husband; I wiſh you had a Child by him, that wou'd conduce much to make up the breach.</p>
+            </sp>
+            <sp>
+               <speaker>Luc.</speaker>
+               <p>I have a Child.</p>
+            </sp>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>How! a Child! Since when?</p>
+            </sp>
+            <sp>
+               <speaker>Luc.</speaker>
+               <p>Long enough.</p>
+            </sp>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>Prithee how old?</p>
+            </sp>
+            <sp>
+               <speaker>Luc.</speaker>
+               <p>Almoſt ſeven Months.</p>
+            </sp>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>Why this is wonderful; do you breed Children in three Months time?</p>
+            </sp>
+            <sp>
+               <speaker>Luc.</speaker>
+               <p>No. Why?</p>
+            </sp>
+            <pb n="29" facs="tcp:65479:15"/>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>You muſt of neceſſity, if we com<g ref="char:EOLhyphen"/>pute the time from your Wedding.</p>
+            </sp>
+            <sp>
+               <speaker>Luc.</speaker>
+               <p>That's true.—But—you muſt know, I had had ſome Diſcourſe with him before we Marry'd.</p>
+            </sp>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>Diſcourſe, <hi>Lucy!</hi> I never knew be<g ref="char:EOLhyphen"/>fore that Children were got by Diſcour<g ref="char:EOLhyphen"/>ſing.</p>
+            </sp>
+            <sp>
+               <speaker>Luc.</speaker>
+               <p>I'll tell you all. During our time of Wooing, he happen'd one day to find me alone in my Chamber, where, not dreaming of his Viſit, I had ſet my ſelf cloſe to Work on my Bed-ſide; he ſeeing the opportunity fair, began to play the Rogue, and tickle me, in a jeſting man<g ref="char:EOLhyphen"/>ner. Now you muſt know, I am extream tickliſh, and not being able to endure his Fingers, I fell all along as in an extaſie; he, it ſeems, purſued his point, and almoſt ſmothered me with Kiſſes. What he did beſide I do not well know, but I'm ſure that ſoon after I found a great alteration, a thouſand Qualmes, and all the ſigns of a breeding Woman.</p>
+            </sp>
+            <sp>
+               <speaker>Amy.</speaker>
+               <p>A very famous Hiſtory! But how can you, <hi>Lucy,</hi> find in your heart to hate that Man, who can get you with Child in a jeſting manner? What cou'd he do think you, when he applies himſelf to Work in earneſt?</p>
+            </sp>
+            <pb n="30" facs="tcp:65479:16"/>
+            <sp>
+               <speaker>Luc.</speaker>
+               <p>Nay, I'm with Child again alrea<g ref="char:EOLhyphen"/>dy.</p>
+            </sp>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>Brave, I proteſt! You ſee a good Plowman, and a rich apt Soil, make a quick Harveſt.</p>
+            </sp>
+            <sp>
+               <speaker>Luc.</speaker>
+               <p>Ay, ay, he performs this way bet<g ref="char:EOLhyphen"/>ter than I deſire.</p>
+            </sp>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>Few Wives are of your Mind. But tell me one thing more, is the Conju<g ref="char:EOLhyphen"/>gal Debt duly paid at preſent?</p>
+            </sp>
+            <sp>
+               <speaker>Luc.</speaker>
+               <p>No, I have ſtopp'd all Payments.</p>
+            </sp>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>He is the leſs then to be blamed for Rambling. Is your Child Male or Fe<g ref="char:EOLhyphen"/>male?</p>
+            </sp>
+            <sp>
+               <speaker>Luc.</speaker>
+               <p>A delicate Boy.</p>
+            </sp>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>That Boy ought to make you Friends; and it will be effected undoubt<g ref="char:EOLhyphen"/>edly, if you wou'd but yield a little. What do other People ſay of your Hus<g ref="char:EOLhyphen"/>band? What Character has he abroad?</p>
+            </sp>
+            <sp>
+               <speaker>Luc.</speaker>
+               <p>He is reported abroad to be of a moſt obliging Behaviour, kind, liberal, and an excellent Friend to thoſe that love him.</p>
+            </sp>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>Thus far there's hope: I ſee he is without Door what you cou'd wiſh him.</p>
+            </sp>
+            <sp>
+               <speaker>Luc.</speaker>
+               <p>But to me only he is quite other<g ref="char:EOLhyphen"/>wiſe.</p>
+            </sp>
+            <pb n="31" facs="tcp:65479:16"/>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>However, be you ſuch to him as I adviſed, and if you do not find him become the ſame Man to you too, never give me credit. Your Husband is but young, (I gueſs him about four and twenty) he cannot yet know well what it is to be a Houſe-keeper, and all the Duties that belong to that Name. Think thus, <hi>Lucy,</hi> and do not think of Separa<g ref="char:EOLhyphen"/>tion.</p>
+            </sp>
+            <sp>
+               <speaker>Luc.</speaker>
+               <p>I cannot forbear it, my Life is ſo uneaſie.</p>
+            </sp>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>'Tis impoſſible you ſhou'd deſire it, if you wou'd but rightly conſider what a wretched Creature a Wife is when parted from her Hus<g ref="char:EOLhyphen"/>band, and how Excellent her Cha<g ref="char:EOLhyphen"/>racter who Loves and Obeys. Na<g ref="char:EOLhyphen"/>ture requires, and God commands, that the Wife depend wholly on her Husband. Be aſſured, a Husband is juſt like an Eſtate; you have both one, and if you loſe that, you muſt ſtarve, or live without any. In the laſt place, think of your poor Child,
+<pb n="32" facs="tcp:65479:17"/>the Common Intereſt of both his Parents. How wou'd you diſpoſe of him? Wou'd you take him with you? Then you diſpoſſeſs and rob his Father. Wou'd you leave him behind you? Then I know you re<g ref="char:EOLhyphen"/>linquiſh the deareſt Treaſure you have. Pray anſwer me one Queſti<g ref="char:EOLhyphen"/>on; have you any back Friends, that wou'd rejoyce to ſee you miſe<g ref="char:EOLhyphen"/>rable?</p>
+            </sp>
+            <sp>
+               <speaker>Luc.</speaker>
+               <p>Yes, ſome. I have a true Mother-in-Law for one; and to match her, there is my Husbands Mother as very a Devil as her ſelf.</p>
+            </sp>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>Are they very malicious?</p>
+            </sp>
+            <sp>
+               <speaker>Luc.</speaker>
+               <p>I believe they have wiſh'd me ruin'd a thouſand times.</p>
+            </sp>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>And wou'd you gratify their Malice? You do it abundantly in a Separation. What thing can be more pleaſing to them than to ſee you live forſaken; a Widow: Nay, worſe than a Widow; for Widows may Love, and Marry again where
+<pb n="33" facs="tcp:65479:17"/>they fancy, which you can never hope for.</p>
+            </sp>
+            <sp>
+               <speaker>Luc.</speaker>
+               <p>I approve your Counſel, my dear <hi>Amy,</hi> and wou'd practiſe it, but I am diſcourag'd to think of ſuch a tedious labour.</p>
+            </sp>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>You have a pretty Parrot here, that ſpeaks ſome Words ex<g ref="char:EOLhyphen"/>ceeding plain; have you been long in teaching him?</p>
+            </sp>
+            <sp>
+               <speaker>Luc.</speaker>
+               <p>O Lord, aye; the Bird has coſt me a World of Pains and Pa<g ref="char:EOLhyphen"/>tience.</p>
+            </sp>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>And can you think the un<g ref="char:EOLhyphen"/>dertaking tedious, when you endea<g ref="char:EOLhyphen"/>vour to reclaim a Husband, in whoſe Society you may ſpend your whole Life with Pleaſure? Can you take pains to teach a Parrot, and not en<g ref="char:EOLhyphen"/>deavour to win a Husband by kind Language? What pains do ſome Men take to break a Horſe, and make
+<pb n="34" facs="tcp:65479:18"/>him eaſie? Be aſſured, <hi>Lucy,</hi> it de<g ref="char:EOLhyphen"/>ſerves more pains to make your Husband kind.</p>
+            </sp>
+            <sp>
+               <speaker>Luc.</speaker>
+               <p>What wou'd you have me do?</p>
+            </sp>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>I'll tell you in few Words. Take care that all things within Doors be neat, and in good order, that ſo he may not be Sick of Home. Let your Behaviour be affable and familiar, yet always within the li<g ref="char:EOLhyphen"/>mits of that Reverend eſteem you owe a Husband. Be neither too ſad, nor airy; neither too Coy, nor Wan<g ref="char:EOLhyphen"/>ton. Let his Diet be Choice, and well Dreſs'd. Obſerve what he likes beſt, and provide that often. Ob<g ref="char:EOLhyphen"/>ſerve what Company he moſt fa<g ref="char:EOLhyphen"/>vours, and Invite them continually; Treat them, and Oblige them often. Let all ſuch Entertainments be gen<g ref="char:EOLhyphen"/>tile and pleaſant, nothing to be then wanting; but leaſt of all, Mirth and good Humour. And when at any
+<pb n="35" facs="tcp:65479:18"/>time you find him Merry with a Glaſs too much, or ſo, if he begins to Tune his Lute, be you alſo ready with your Voice, to make a Con<g ref="char:EOLhyphen"/>ſort. Thus, by degrees, you will teach him to delight to be at Home, and conſequently, to avoid a World of needleſs Expences; for he muſt of neceſſity, in a ſhort time, conſider thus: <hi>Am not I a Mad-man to be ſo often abroad, Debauching away both my Eſtate and Reputation, among a Company of rotten Whores, filthy Crea<g ref="char:EOLhyphen"/>tures, equally unſound in Mind and Body, when I have here at Home a Wife of ſuch a temper, ſo infinitely be<g ref="char:EOLhyphen"/>yond them all for Beauty, Touth, and Wit; and what is more conſiderable, a faithful Wife, and one that loves me ſo entirely, and in whoſe Company I can enjoy what delights I pleaſe, with<g ref="char:EOLhyphen"/>out Scandal or Hazard?</hi>
+               </p>
+            </sp>
+            <pb n="36" facs="tcp:65479:19"/>
+            <sp>
+               <speaker>Luc.</speaker>
+               <p>Well, ſuppoſe I ſhou'd act thus as you Adviſe, yet I fear Suc<g ref="char:EOLhyphen"/>ceſs.</p>
+            </sp>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>Truſt to me: I'll take it up<g ref="char:EOLhyphen"/>on my ſelf if you fail. In the mean time, I'll go and begin with him; I'll teach him his Duty too.</p>
+            </sp>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>I love you for that; but for God's ſake, take heed our Conſulta<g ref="char:EOLhyphen"/>tion be not diſcovered. If he ſhou'd ſmoak us, he'd run into all the Ex<g ref="char:EOLhyphen"/>travagancies of <hi>Bedlam.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>Fear not that, you ſhall ſee I will manage my Words with ſuch Cunning, that himſelf ſhall begin the Diſcourſe, and tell me all your Diſcords: Then will I handle him in ſuch a manner, and uſe ſuch Ar<g ref="char:EOLhyphen"/>guments, that I doubt not but to leave him in a better humour for your advantage than I found him. I will only mention you by the by,
+<pb n="37" facs="tcp:65479:19"/>as one that I hear loves him with a perfect Affection.</p>
+            </sp>
+            <sp>
+               <speaker>Luc.</speaker>
+               <p>Proſper th' Event ſweet Hea<g ref="char:EOLhyphen"/>ven.</p>
+            </sp>
+            <sp>
+               <speaker>Am.</speaker>
+               <l>— Do not ſuſpect; </l>
+               <l>Heaven will not fail, unleſs your ſelf neglect.</l>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
